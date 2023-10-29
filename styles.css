@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.main {
+.app {
   height: 100vh; 
   display: flex;
   justify-content: space-evenly;
